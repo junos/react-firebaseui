@@ -1,0 +1,32 @@
+{
+  "name": "react-firebaseui",
+  "version": "0.0.1",
+  "description": "firebaseui for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junos/react-firebaseui-web.git"
+  },
+  "keywords": [
+    "react",
+    "firebaseui-web"
+  ],
+  "author": "Jun Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/junos/react-firebaseui-web/issues"
+  },
+  "homepage": "https://github.com/junos/react-firebaseui-web#readme",
+  "dependencies": {
+    "firebaseui": "^1.0.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "node-sass": "^4.5.0",
+    "phantomjs": "^2.1.7"
+  }
+}
